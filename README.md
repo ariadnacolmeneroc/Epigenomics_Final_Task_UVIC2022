@@ -3,4 +3,9 @@ In this repository you will find all the files related to the final epigenomics 
 - **4. EN‐TEx ATAC‐seq data: downstream analyses**.
 - **5. Distal regulatory activity**.
 
-Therefore, it contains a . pdf document with all the explanations and results that have been generated, the files obtained and a .txt file with the reproducible code.
+Hence, it contains three folders belonging to:
+- **Scripts**: 
+- **Code**: it contains a **Exercices_4and5.pdf** document with all the explanations and results that have been generated and a **COMMANDS.txt** file with the reproducible code.
+- **Files_obtained**:
+
+
